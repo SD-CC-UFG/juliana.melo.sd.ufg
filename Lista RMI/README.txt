@@ -1,0 +1,1 @@
+A pasta RMI é um projeto do netbeans, nele haverá os pacotes separados de cada exercício com 5 classes para que a aplicação RMI funcione. Em cada pacote a classe Servidor.java deve ser executada primeiro separadamente, e depois a classe Cliente.java, para que a aplicação funcione corretamente.
